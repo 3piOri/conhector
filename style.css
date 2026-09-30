@@ -158,6 +158,10 @@ body {
     opacity: 0.9;
 }
 
+.hero-subtitle strong {
+    color: var(--primary-color);
+}
+
 .hero-buttons {
     display: flex;
     gap: 15px;
