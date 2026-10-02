@@ -106,7 +106,7 @@ body {
     position: relative;
     height: 90vh;
     min-height: 600px;
-    background: url("2.png") center/cover no-repeat;
+    background: url("i2.webp") center/cover no-repeat;
     display: flex;
     align-items: center;
     color: var(--white);
