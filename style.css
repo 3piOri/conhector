@@ -574,4 +574,12 @@ body {
         flex-direction: column;
         text-align: center;
     }
+
+    .footer-languages {
+        align-items: center;
+    }
+
+    .language-flags {
+        margin-left: 0;
+    }
 }
